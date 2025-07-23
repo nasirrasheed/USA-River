@@ -149,7 +149,7 @@ export function Footer() {
           <div className="border-t border-white/20 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <div className="text-white/60 text-sm">
-                © 2024 AquaThrill NYC. All rights reserved.
+                © 2025 AquaThrill NYC. All rights reserved.
               </div>
               <div className="flex space-x-6 text-sm">
                 <button onClick={() => scrollToSection('#contact')} className="text-white/60 hover:text-white transition-colors">
